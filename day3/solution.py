@@ -1,5 +1,4 @@
 import sys
-import numpy as np
 
 def parse_engine_map(input):
     engine_map = []
